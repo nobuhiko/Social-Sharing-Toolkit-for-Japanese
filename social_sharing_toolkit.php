@@ -1230,7 +1230,7 @@ class MR_Social_Sharing_Toolkit {
         $retval = '
             <span itemscope="" itemref="'.$mode.'" itemtype="http://growbutton.com/ns#button">
                 <span itemprop="url">'. urlencode($url) .'</span>
-                <span itemprop="title">'. urlencode($title) .'</span>
+                <span itemprop="title">'.$title.'</span>
                 <span itemprop="apikey">'.$id.'</span>
             </span>
             ';
