@@ -6,6 +6,11 @@ Description: This plugin enables sharing of your content via popular social netw
 Version: 2.0.8
 Author: Marijn Rongen
 Author URI: http://www.active-bits.nl
+
+for Japanese
+    http://nob-log.info/2012/03/21/wpsocial-sharing-toolkit-for-japanese/
+    Author: Nobuhiko
+    Author: http://nob-log.info
 */
 
 class MR_Social_Sharing_Toolkit {

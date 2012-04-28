@@ -1,3 +1,13 @@
+=== Social Sharing Toolkit for Japanese ===
+Contributors: Nobuhiko
+Link: http://nob-log.info/2012/03/21/wpsocial-sharing-toolkit-for-japanese/
+
+= Add Sharing content =
+
+* はてなブックマーク
+* Grow!
+
+
 === Social Sharing Toolkit ===
 Contributors: MarijnRongen
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=P8ZVNC57E58FE&lc=NL&item_name=WordPress%20plugins%20by%20Marijn%20Rongen&item_number=Social%20Sharing%20Toolkit&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted
